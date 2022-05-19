@@ -8,7 +8,7 @@ _Note_ : Code is for int-5 model and int5 folder consists of the example model p
 ## Observation:
 Improvement in latency and on-chip memory consumption. 
 
-Repository part of "Hardware Acceleration of CNN on FPGA using IntegerNet Algorithm for Seizure Detection Application" paper submission to the 32nd edition of GLSVLSI, 2022.
+Repository is the part of "Integer-Net Inspired High-Speed Seizure Detector" paper submitted to Euromicro DSD, 2022.
 
 ## Reference
 <a id = "1">[1]</a>
