@@ -8,8 +8,6 @@ _Note_ : Code is for int-5 model and int5 folder consists of the example model p
 ## Observation:
 Improvement in latency and on-chip memory consumption. 
 
-Repository is the part of "Integer-Net Inspired High-Speed Seizure Detector" paper submitted to Euromicro DSD, 2022.
-
 ## Reference
 <a id = "1">[1]</a>
 N. D. Truong et al., "Integer Convolutional Neural Network for Seizure Detection," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 8, no. 4, pp. 849-857, Dec. 2018, doi: 10.1109/JETCAS.2018.2842761.
